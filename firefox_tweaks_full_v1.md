@@ -1,4 +1,4 @@
-# Quicklist
+# Quicklist (Options I personally find essential)
 
 |     |     |
 | --- | --- |
@@ -80,11 +80,11 @@ For the disk cache entries we keep some of the most recent and most used cache e
 
 # Google Safe Browsing
 
-1\. Disable Google Safe Browsing and malware and phishing protection.  
-2\. Stop sending links and downloading lists from google.  
-3\. Security risk, but privacy improvement.  
-4\. Note: this list may be incomplete as firefox updates, be sure to search for browser.safebrowsing.provider.google\*  
-5\. Also simply setting safebrowsing.\*.enabled to false should make setting the URL's to blank redundant, but better to be safe.  
+1\. Disable Google Safe Browsing and malware and phishing protection.
+2\. Stop sending links and downloading lists from google.
+3\. Security risk, but privacy improvement.
+4\. Note: this list may be incomplete as firefox updates, be sure to search for browser.safebrowsing.provider.google\*
+5\. Also simply setting safebrowsing.\*.enabled to false should make setting the URL's to blank redundant, but better to be safe.
 6\. If you see anything pointing google, probably best to nuke it.
 
 | Prefer | Setting | Recommended Value |
